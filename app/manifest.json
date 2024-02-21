@@ -7,9 +7,9 @@
   "lang": "en-US",
   "orientation": "any",
   "start_url": "/?utm_source=homescreen",
-  "categories": [
+   "categories": [
     "sports"
-  ],
+  ]
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
