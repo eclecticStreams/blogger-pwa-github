@@ -10,6 +10,9 @@
    "categories": [
     "sports"
   ]
+  "display_override": [
+    "window-controls-overlay"
+  ],
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
@@ -133,6 +136,17 @@
       "sizes": "540x720"
     }
   ],
+  "features": [
+    "Match Streaming",
+    "Livescore",
+    "League Stats",
+    "Matches Highlights",
+    "Sport TV live 24/7"
+  ],
+  "launch_handler": {
+    "client_mode": "auto"
+  },
+  "handle_links": "preferred"
   "shortcuts": [
     {
       "name": "Eclectic Streams",
