@@ -9,7 +9,7 @@
   "start_url": "/?utm_source=homescreen",
    "categories": [
     "sports"
-  ]
+  ],
   "display_override": [
     "window-controls-overlay"
   ],
