@@ -146,7 +146,7 @@
   "launch_handler": {
     "client_mode": "auto"
   },
-  "handle_links": "preferred"
+  "handle_links": "preferred",
   "shortcuts": [
     {
       "name": "Eclectic Streams",
