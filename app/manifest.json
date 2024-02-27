@@ -161,6 +161,42 @@
       ]
     },
     {
+      "name": "Matches Highlights",
+      "short_name": "Matches Highlights",
+      "description": "Watch all matches Highlights for free",
+      "url": "https://www.eclecticstreams.com.ng/p/matches-highlights.html?m=1#highlight",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Today's Fixtures",
+      "short_name": "Today's Fixtures",
+      "description": "Stay updated with our today's Matches LiveScore without stress",
+      "url": "https://www.eclecticstreams.com.ng/?m=1#todaysfixtures",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Live sport tv",
+      "short_name": "Live TV 24/7",
+      "description": "Stream your favorite sport TV for free",
+      "url": "/",
+      "icons": [
+        {
+          "src": "icons/android-icon-192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
       "name": "Livescore",
       "short_name": "Livescore",
       "description": "Real-time updates on sports matches, scores, and results",
@@ -173,5 +209,6 @@
       ]
     }
   ],
-  "id": "com.eclecticventures.eclecticstreams"
+  "id": "com.eclecticventures.eclecticstreams",
+  "iarc_rating_id": "13"
 }
