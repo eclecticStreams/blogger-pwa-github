@@ -1,226 +1,226 @@
 {
-  "version": "1.0",
-  "name": "Eclectic Streams",
-  "short_name": "Eclectic Streams",
-  "description": "Your Odyssey into Ultimate Live Streaming! 🚀🌐⚽📺",
-  "dir": "auto",
-  "lang": "en-US",
-  "orientation": "any",
-  "start_url": "/?utm_source=homescreen",
-   "categories": [
-    "sports"
-  ],
-  "display_override": [
-    "window-controls-overlay"
-  ],
-  "scope": "/",
-  "display": "standalone",
-  "prefer_related_applications": false,
-  "background_color": "#fff",
-  "theme_color": "#fff",
-  "icons": [
-    {
-      "src": "icons/favicon.ico",
-      "sizes": "16x16 24x24 32x32 64x64",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "icons/android-icon-36x36.png",
-      "sizes": "36x36",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/android-icon-36x36.png",
-      "sizes": "36x36",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icons/android-icon-48x48.png",
-      "sizes": "48x48",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/android-icon-48x48.png",
-      "sizes": "48x48",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icons/android-icon-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/android-icon-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icons/android-icon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png",
-      "purpose": "any"
-    },
-     {
-      "src": "icons/android-icon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icons/android-icon-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/android-icon-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icons/android-icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/android-icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icons/android-icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/android-icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "screenshots/screen-1.png",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "screenshots/screen-2.png",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "screenshots/screen-3.png",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "screenshots/screen-4.png",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "screenshots/screen-5.png",
-      "type": "image/png",
-      "sizes": "540x720"
-    }
-  ],
-  "features": [
-    "Match Streaming",
-    "Livescore",
-    "League Stats",
-    "Matches Highlights",
-    "Sport TV live 24/7"
-  ],
-  "launch_handler": {
-    "client_mode": "auto"
-  },
-  "handle_links": "preferred",
-  "shortcuts": [
-    {
-      "name": "Eclectic Streams",
-      "short_name": "Eclectic Streams",
-      "description": "Your Odyssey into Ultimate Live Streaming! 🚀🌐⚽📺",
-      "url": "/",
-      "icons": [
+    "version": "1.0",
+    "name": "Eclectic Streams",
+    "short_name": "Eclectic Streams",
+    "description": "Your Odyssey into Ultimate Live Streaming! 🚀🌐⚽📺",
+    "dir": "auto",
+    "lang": "en-US",
+    "orientation": "any",
+    "start_url": "/?utm_source=homescreen",
+    "categories": [
+        "sports"
+    ],
+    "display_override": [
+        "window-controls-overlay"
+    ],
+    "scope": "/",
+    "display": "standalone",
+    "prefer_related_applications": false,
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "icons": [
         {
-          "src": "icons/android-icon-192x192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "Matches Highlights",
-      "short_name": "Matches Highlights",
-      "description": "Watch all matches Highlights for free",
-      "url": "https://www.eclecticstreams.com.ng/p/matches-highlights.html?m=1#highlight",
-      "icons": [
-        {
-          "src": "icons/android-icon-192x192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "Today's Fixtures",
-      "short_name": "Today's Fixtures",
-      "description": "Stay updated with our today's Matches LiveScore without stress",
-      "url": "https://www.eclecticstreams.com.ng/?m=1#todaysfixtures",
-      "icons": [
-        {
-          "src": "icons/android-icon-192x192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "League Stats",
-      "short_name": "League Stats",
-      "description": "Check all your favorite league stats including standings, Top scorers, Assist and cards",
-      "url": "https://www.eclecticstreams.com.ng/p/stats.html#stats",
-      "icons": [
-        {
-          "src": "icons/android-icon-192x192.png",
-          "sizes": "192x192"
-        }
-      ]
+            "src": "icons/favicon.ico",
+            "sizes": "16x16 24x24 32x32 64x64",
+            "type": "image/x-icon"
         },
-    {
-      "name": "Live sport tv",
-      "short_name": "Live TV 24/7",
-      "description": "Stream your favorite sport TV for free",
-      "url": "https://www.eclecticstreams.com.ng/p/our-live-tv-247.html#livetv",
-      "icons": [
         {
-          "src": "icons/android-icon-192x192.png",
-          "sizes": "192x192"
+            "src": "icons/android-icon-36x36.png",
+            "sizes": "36x36",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/android-icon-36x36.png",
+            "sizes": "36x36",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/android-icon-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/android-icon-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/android-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/android-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/android-icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/android-icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/android-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/android-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/android-icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/android-icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
         }
-      ]
+    ],
+    "screenshots": [
+        {
+            "src": "screenshots/screen-1.png",
+            "type": "image/png",
+            "sizes": "540x720"
+        },
+        {
+            "src": "screenshots/screen-2.png",
+            "type": "image/png",
+            "sizes": "540x720"
+        },
+        {
+            "src": "screenshots/screen-3.png",
+            "type": "image/png",
+            "sizes": "540x720"
+        },
+        {
+            "src": "screenshots/screen-4.png",
+            "type": "image/png",
+            "sizes": "540x720"
+        },
+        {
+            "src": "screenshots/screen-5.png",
+            "type": "image/png",
+            "sizes": "540x720"
+        }
+    ],
+    "features": [
+        "Match Streaming",
+        "Livescore",
+        "League Stats",
+        "Matches Highlights",
+        "Sport TV live 24/7"
+    ],
+    "launch_handler": {
+        "client_mode": "auto"
     },
-    {
-      "name": "Livescore",
-      "short_name": "Livescore",
-      "description": "Real-time updates on sports matches, scores, and results",
-      "url": "https://www.eclecticstreams.com.ng/p/livescore.html",
-      "icons": [
+    "handle_links": "preferred",
+    "shortcuts": [
         {
-          "src": "icons/android-icon-192x192.png",
-          "sizes": "192x192"
+            "name": "Eclectic Streams",
+            "short_name": "Eclectic Streams",
+            "description": "Your Odyssey into Ultimate Live Streaming! 🚀🌐⚽📺",
+            "url": "/",
+            "icons": [
+                {
+                    "src": "icons/android-icon-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Matches Highlights",
+            "short_name": "Matches Highlights",
+            "description": "Watch all matches Highlights for free",
+            "url": "https://www.eclecticstreams.com.ng/p/matches-highlights.html?m=1#highlight",
+            "icons": [
+                {
+                    "src": "icons/android-icon-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Today's Fixtures",
+            "short_name": "Today's Fixtures",
+            "description": "Stay updated with our today's Matches LiveScore without stress",
+            "url": "https://www.eclecticstreams.com.ng/?m=1#todaysfixtures",
+            "icons": [
+                {
+                    "src": "icons/android-icon-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "League Stats",
+            "short_name": "League Stats",
+            "description": "Check all your favorite league stats including standings, Top scorers, Assist and cards",
+            "url": "https://www.eclecticstreams.com.ng/p/stats.html#stats",
+            "icons": [
+                {
+                    "src": "icons/android-icon-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Live sport tv",
+            "short_name": "Live TV 24/7",
+            "description": "Stream your favorite sport TV for free",
+            "url": "https://www.eclecticstreams.com.ng/p/our-live-tv-247.html#livetv",
+            "icons": [
+                {
+                    "src": "icons/android-icon-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Livescore",
+            "short_name": "Livescore",
+            "description": "Real-time updates on sports matches, scores, and results",
+            "url": "https://www.eclecticstreams.com.ng/p/livescore.html",
+            "icons": [
+                {
+                    "src": "icons/android-icon-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "id": "com.eclecticventures.eclecticstreams",
-  "iarc_rating_id": "13"
+    ],
+    "id": "com.eclecticventures.eclecticstreams",
+    "iarc_rating_id": "13"
 }
